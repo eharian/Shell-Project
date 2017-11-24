@@ -1,0 +1,18 @@
+Working Features:
+- IO Redirection
+- Pipes
+- Background and Zombie
+- Environment
+- Words and Special Chars
+- cd
+- Quotes and Escape Chars
+- Subshell
+- Environment Expansion including Special Expansion
+- Wildcarding
+- Tilde Expansion
+- Robustness
+- ctrl C
+- Edit Mode
+- History
+~                                                                                                
+~                
